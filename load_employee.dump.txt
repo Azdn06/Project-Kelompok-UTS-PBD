@@ -1,0 +1,11 @@
+INSERT INTO Employee (employee_id, employee_name, employee_email, position) VALUES
+('EP001', 'Andika Pratama', 'andika.pratama@rentalmobil.com', 'Driver'),
+('EP002', 'Bunga Wulandari', 'bunga.wulandari@rentalmobil.com', 'Customer Service'),
+('EP003', 'Cahyo Saputra', 'cahyo.saputra@rentalmobil.com', 'Driver'),
+('EP004', 'Dewi Anggraini', 'dewi.anggraini@rentalmobil.com', 'Finance'),
+('EP005', 'Eko Nugroho', 'eko.nugroho@rentalmobil.com', 'Staff Rental'),
+('EP006', 'Farah Lestari', 'farah.lestari@rentalmobil.com', 'Staff Maintenance'),
+('EP007', 'Galih Pradana', 'galih.pradana@rentalmobil.com', 'Staff Maintenance'),
+('EP008', 'Hana Putri', 'hana.putri@rentalmobil.com', 'Manager'),
+('EP009', 'Imam Santoso', 'imam.santoso@rentalmobil.com', 'Manager'),
+('EP010', 'Joko Raharjo', 'joko.raharjo@rentalmobil.com', 'Customer Service');
